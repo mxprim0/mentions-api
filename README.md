@@ -2,7 +2,7 @@
 
 Curso: fullstack com Node.js, Bancos de dados, Express e React
 
-Este é o material utilizado no curso “Do zero ao fullstack com Node.js, Bancos de dados, Express e React” do meu programa social do perifaCode, o perifaCode.teach().
+Este é o material utilizado no curso “Do zero ao fullstack com Node.js, Bancos de dados, Express e React” do programa social do perifaCode, o perifaCode.teach() do William Oliveira.
 
 Projeto API com NodeJS do curso Fullstack com NodeJS, Banco de Dados, Express e React, de Woliveiras
 
